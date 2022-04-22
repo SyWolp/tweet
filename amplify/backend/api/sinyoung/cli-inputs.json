@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "sinyoung",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/soohongkim/Desktop/test/testR/sinyoung/amplify/backend/api/sinyoung/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
